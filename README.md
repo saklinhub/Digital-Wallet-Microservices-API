@@ -73,8 +73,6 @@ DB_PASSWORD=your_postgres_password
 JWT_SECRET=your_256_bit_secret_key
 ```
 
-> [!IMPORTANT]
-> **Never commit `.env` files to version control!** They contain sensitive credentials.
 
 ### Running the Services
 
