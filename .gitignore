@@ -1,0 +1,39 @@
+# Compiled class files
+**/target/
+*.class
+
+# Log files
+*.log
+logs/
+
+# Environment variable
+.env
+**/.env
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# Spring Boot
+spring-boot-*.log
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
